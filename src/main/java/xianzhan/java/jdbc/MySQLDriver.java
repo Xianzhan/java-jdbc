@@ -15,7 +15,7 @@ import java.util.Properties;
  */
 public class MySQLDriver {
 
-    private static final String URL = "jdbc:mysql://192.168.3.28:3306/april?useSSL=false&characterEncoding=utf8";
+    private static final String URL = "jdbc:mysql://192.168.137.28:3306/april?useSSL=false&characterEncoding=utf8";
 
     public static void main(String[] args) throws Exception {
 
